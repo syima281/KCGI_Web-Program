@@ -1,1 +1,1 @@
-https://github.com/syima281/KCGI_Web-Program.git
+ https://syima281.github.io/KCGI_Web-Program/
